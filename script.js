@@ -1,4 +1,4 @@
-function wish () {
+
     setTimeout(() => {
         document.querySelector("#para").innerHTML = 10
         setTimeout(()=>{
@@ -37,4 +37,4 @@ function wish () {
     }, 1000)
        
     
-}
+
